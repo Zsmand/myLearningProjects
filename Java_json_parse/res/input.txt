@@ -1,0 +1,70 @@
+{  
+   "felhasznalok":[  
+      {  
+         "szig":"A000000000",
+         "nev":"Teszt Elek",
+         "szuldatum":"1990.01.01",
+         "szulhely":"Tesztváros"
+      },
+      {  
+         "szig":"A000000001",
+         "nev":"Felforg Atás",
+         "szuldatum":"1990.02.10",
+         "szulhely":"Tesztváros"
+      },
+      {  
+         "szig":"A000000002",
+         "nev":"Szervezeti Nyílt Nap",
+         "szuldatum":"2015.03.04",
+         "szulhely":"Győr"
+      },
+      {  
+         "szig":"A000000003",
+         "nev":"Zöld Piroska",
+         "szuldatum":"1995.03.12",
+         "szulhely":"Szombathely"
+      },
+      {  
+         "szig":"A000000004",
+         "nev":"Barna Attila",
+         "szuldatum":"1994.10.10",
+         "szulhely":"Florida"
+      },
+      {  
+         "szig":"A000000005",
+         "nev":"Máté Béla",
+         "szuldatum":"1998.12.12",
+         "szulhely":"Tesztváros"
+      },
+      {  
+         "szig":"A000000006",
+         "nev":"Keresztes Gellért",
+         "szuldatum":"1992.02.14",
+         "szulhely":"Valentin"
+      },
+      {  
+         "szig":"A000000007",
+         "nev":"Böske Redőny",
+         "szuldatum":"1997.10.24",
+         "szulhely":"Pécs"
+      },
+      {  
+         "szig":"A000000008",
+         "nev":"Üveg Ablak",
+         "szuldatum":"1995.05.14",
+         "szulhely":"Budapest"
+      },
+      {  
+         "szig":"A000000009",
+         "nev":"Körte Jonatán",
+         "szuldatum":"1989.09.12",
+         "szulhely":"Páráppáparapa"
+      },
+      {  
+         "szig":"A000000010",
+         "nev":"Káposzta Répa",
+         "szuldatum":"1985.10.10",
+         "szulhely":"Narancs City"
+      }
+   ]
+}
